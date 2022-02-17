@@ -1,0 +1,22 @@
+form{
+    margin: 0 auto;
+}
+.btn{
+   background-color: #0cbaba1e;
+   color: #0cbaba;
+   border: none;
+   height: 42px;
+   /* width: 80px; */
+   margin-left: 2px;
+}
+input{
+    background-color: #0cbaba1e;
+    border: none;
+    height: 40px;
+    width: 300px;
+    color:  #0cbaba ;
+}
+input::placeholder{
+    padding-left: 20px;
+    color: #0cbaba;
+}
